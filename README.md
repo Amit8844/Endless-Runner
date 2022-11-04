@@ -1,5 +1,10 @@
 # Endless-Runner
 Multiplayer Endless Runner Prototype
+# Features
+- Player Spawning
+- Random Obstacle Spawning
+- Random Collectables Spawning
+- Random Barrier Spawning
 
 =================================Start Screen=====================================================
 ![Screenshot (91)](https://user-images.githubusercontent.com/95414680/196618449-0acd2bc3-f13b-45f3-99d1-b240aaf087e8.png)

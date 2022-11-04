@@ -1,5 +1,7 @@
 # Endless-Runner
 Multiplayer Endless Runner Prototype
+# How To Play
+Left and Right Keys to move.
 # Features
 - Player Spawning
 - Random Obstacle Spawning
